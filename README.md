@@ -21,3 +21,7 @@ In **allTicked**, users can create projects, add tasks with due dates and priori
 * [Python Official Documentation](https://docs.python.org/3/)
 * [Stack Overflow](https://stackoverflow.com/)
 * [Django Packages - Task Management Tools](https://djangopackages.org/grids/g/task-management/)
+
+# How to Run the App
+
+

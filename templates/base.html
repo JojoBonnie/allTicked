@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>allTicked</title>
+</head>
+<body>
+{% block content %}
+    <h1>Hello World!</h1>
+    <h3>Welcome to allTicked, your go-to platform for managing tasks and projects efficiently.</h3>
+    <h4>Explore our features and start organizing your life today!</h4>
+    <p>Sign up here to get started: <a href="{% url 'signup' %}">Sign Up</a></p>
+    <p>Already have an account? <a href="{% url 'signin' %}">Sign In</a></p>
+{% endblock %}
+</body>
+</html>
