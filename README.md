@@ -5,7 +5,7 @@ Python and the Django framework. To achieve this, I created **allTicked**, a tas
 
 In **allTicked**, users can create projects, add tasks with due dates and priority levels, assign tasks to collaborators, and mark them as completed (“ticked”). The interface includes a clean task board, intuitive workflows, and a progress tracker to visualize project completion. This app is ideal for individuals, small teams, and anyone looking for a simple and effective way to manage daily tasks.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=KSh52jCo-3U)
 
 # Development Environment
 
